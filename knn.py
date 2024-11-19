@@ -4,8 +4,8 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-st.header('Hassaporn')
-#st.image("./img/Hassaporn.jpg")
+st.header('Watthana')
+#st.image("./img/111.jpg")
 col1, col2, col3 = st.columns(3)
 with col1:
  st.header("Versicolor")
